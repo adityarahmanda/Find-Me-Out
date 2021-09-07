@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197486750365",
+    "project_id": "find-me-out-41e3c",
+    "storage_bucket": "find-me-out-41e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197486750365:android:0a8f712d726df7c9cdc274",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FindMeOut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197486750365-356v1g4g33plkuo4pgeen1cfs6nve92p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIVpFBfK4JEJS8QWeuX4TSxzmusyBfrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197486750365-356v1g4g33plkuo4pgeen1cfs6nve92p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
