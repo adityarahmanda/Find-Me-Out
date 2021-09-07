@@ -5,7 +5,7 @@
 ### Authors
 
 * [Ilham Pratama](https://gitlab.com/pratamailham206)
-* [Aditya Nur Juang Rahmanda](https://gitlab.com/adityarahmanda)
+* [Aditya Nur Juang Rahmanda](https://github.com/adityarahmanda)
 
 ## Game Overview
 
@@ -28,11 +28,6 @@ Windows
 ### Gameplay
 
 ![Gameplay GIF Find Me Out](Documents/gif/gameplay.gif)
-
-### Download release version
-
-Want to try the game out? [download](https://ilhampratama.itch.io/find-me-out) the latest version.
-
 
 ### High concept and design
 
